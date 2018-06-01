@@ -1,0 +1,17 @@
+3 surfaces HOLOSPEC_V4.OPT
+  X      Y         Z         Curv           Aspher     Type          Diam       OffOx       X            Pitch
+------:--------:----------:---------------:----------:----------:-----------:------------:------------:----------:----
+      :        :   310.0  : -0.0016129    :  -1      :  Mirr    : 51.0      :   80.25    :            :          :
+      :        :   100    : 0.00077399    :  -1      :  Mirr    : 76.2      :  167.20    :  -86.95    :          :
+-86.95?  0.0000? 746.00578?               :          :  CCD     :           :            :            :   -15    :
+      :        :          :               :          :          :           :            :            :          :
+               :          :               :          :          :           :            :            :          :
+               :          :               :          :          :           :            :            :          :
+               :          :               :          :          :           :            :            :          :
+               :          :               :          :          :           :            :            :          :
+               :Author :     ; Sylvie Dagoret-Campagne
+               :Date   :     ; 31/01/18
+               :Affilition   ; LAL/CNRS
+               :Project      ; LSST/HOLOSPEC
+               :Version      ; V3
+               :Comment      ; Holospec cat cradle

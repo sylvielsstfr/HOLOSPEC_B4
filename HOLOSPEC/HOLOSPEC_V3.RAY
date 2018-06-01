@@ -1,0 +1,17 @@
+3 rays    HOLOSPEC_V3.RAY
+   U0        @                Xfinal     notes     WFE
+----------:------::-------:----------:----------:-----------:
+ 0.180    :      r:       : -82.86347: OK 3     :    0.00377:
+ 0.251    :      r:       : -82.23593: OK 3     :   -0.00777:
+ 0.3225   :      r:       : -81.58886: OK 3     :    0.00401:
+          :      r:       :          : Dia 1    :           :
+          :      r:       :          : Dia 1    :           :
+          :      r:       :          :          :           :
+          :      r:       :          :          :           :
+          :      r:       :          :          :           :
+Author        ; Sylvie Dagoret-Campagne
+Date          ; 31/01/18
+Affiliation   ; LAL/CNRS
+Project       ; LSST/HOLOSPEC
+Comment       ; Holospec cat cradle
+Version       ; V3

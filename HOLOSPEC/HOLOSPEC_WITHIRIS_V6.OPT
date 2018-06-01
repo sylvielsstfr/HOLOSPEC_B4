@@ -1,0 +1,51 @@
+5 surfaces HOLOSPEC_WITHIRIS_V6.OPT
+  X      Y         Z         Curv           Aspher     Type          Diam      diam         OffOx        Pitch
+------:--------:----------:---------------:----------:----------:-----------:-----------:------------:-----------:----
+80.25 :        :   64     :    0          :          : Iris     :           :  98.3     :            :           :
+      :        :   304.8  : -0.001612487  :  -1      :  Mirr    : 50.8      :           :   80.25    :           :
+-86.95:        :   65     : 0.0007739938  :  -1      :  Mirr    :  76.2     :           :  167.20    :           :
+80.25 :        :  308.7   :      0        :          :  Iris    :           :   71.84   :            :           :
+-86.95: 0.0000 : 730.01   :               :          :  CCD     :  20       :           :            :    -15    :
+      :        :          :               :          :          :           :           :            :           :
+               :          :               :          :          :           :           :            :           :
+               :          :               :          :          :                       :            :           :
+               :          :               :          :          :                       :            :           :
+               :          :               :          :          :                       :            :           :
+
+               :Author :     ; Sylvie Dagoret-Campagne
+               :Date   :     ; 19/02/18
+               :Affilition   ; LAL/CNRS
+               :Project      ; LSST/HOLOSPEC
+               :Version      ; V6  NO IRIS
+               :Comment      ; Holospec cat cradle
+
+
+
+
+
+Miroir 1: Les rayons arrivent sous un angle de 15 degres
+Focale    : 304.8
+C=1/(2F)  : 1.64042E-3
+Decalage  : OffOX = 80.25 mm
+Diametre  : 50.8 mm
+
+Support du Miroir 1 :
+Distance de S       : 308.7 mm
+Diametre            : 71.84 mm
+
+
+Miroir 2: Les rayons arrivent paralellesl'axe du miroir et repartent avec un angle de -15 degres
+Distance Z arbitraire mise  100 mm < Z1
+Focale f2 : 635 mm
+C2= 1/(2f2)      : 7,874E-4
+Diametre        : 76.2 mm
+Decalage OffX : 167.2
+X :    - (167.2-80.25) =86.95 mm
+
+
+Support Miroir 2 :
+Distance de S :  Z3-0.5 = 99.5 mm
+
+
+Image Focale
+Distance de S : Z3 + F2 = 735.54
