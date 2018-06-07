@@ -1,13 +1,19 @@
-7  surfaces       AuxTel_GlassSlit_CryWdow_HOE_V0.OPT
+7  surfaces       AuxTel_GlassSlit_CryWdow_HOE_532nm.V0.OPT
    index     Zvx        Curv      Type?      Diam        form      HOELambda   HOEx1      HOEz1   HOEx2      HOEz2      order
 ----------:----------:----------:----------:------------:--------:----------:----------:--------:---------:----------:---------:
           :  -200    :          :   Lens   :   60       :  S     :          :          :        :         :          :         :
-  1.4585  :  -190    :          :   Lens   :   60       :  S     :  0.639   :-16.96572 : 198.6  :    0    :  198.6   :  0      :
+  1.4585  :  -190    :          :   Lens   :   60       :  S     :  0.532   :-16.96    : 191.4  :    0    :  191.4   :  1      :
           :  -13.28  :          :   Lens   :   50       :        :          :          :        :         :          :         :
   1.4585  :  -5.5    :          :   Lens   :   50       :        :          :          :        :         :          :         :
           :    0     :          :          :   40       :  S     :          :          :        :         :          :         :
           :    3     :          :          :   40       :  S     :          :          :        :         :          :         :
-          :   5.4683 :          :   CCD    :   40       :  S     :          :          :        :         :          :         :
+          :   6.     :          :   CCD    :   40       :  S     :          :          :        :         :          :         :
           :          :          :          :            :        :          :          :        :         :          :         :
           :          :          :          :            :        :                     :        :         :          :         :
           :          :          :          :            :        :                     :        :         :          :         :
+ Hologram Configuration with lambda=532 nm
+Z1=Z2=191.4 mm
+X1=-16.96 mm
+
+Z2=191.4 mm
+X2=0  mm
