@@ -1,0 +1,6 @@
+3 surfaces TransGratingR200_O0.OPT
+Index        Z        Type     Gx,mm      Order      Diam
+---------:--------:---------:--------- :----------:---------
+    1    :   65   :Lens     :          :          :  80
+1        :   66   :Lens     :  150     :    0     :  80
+         :  265   : CCD     :          :          :  80
