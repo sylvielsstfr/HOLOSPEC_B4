@@ -1,4 +1,4 @@
-3  surfaces            LENS.OPT
+3  surfaces        CylinderLENS.OPT
   Index     Zvx     Cx       Curv     Type?   Diam
 --------:--------:---------:-------:--------:-------:-:-------:
   1.00  : 32.0   :         :  0    :  Lens  :  30   : :       :
